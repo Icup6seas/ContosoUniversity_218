@@ -135,6 +135,10 @@
     <Content Include="Content\bootstrap-reboot.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\contoso.jpg" />
+    <Content Include="Content\graduates.jpg" />
+    <Content Include="Content\library.jpg" />
+    <Content Include="Content\lounge.jpg" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
